@@ -1,0 +1,13 @@
+.DS_Store
+*.log
+.idea/*
+.idea/workspace.xml
+
+.idea/
+coverage
+node_modules
+public/assets
+webpack-assets.json
+webpack-stats.json
+
+
